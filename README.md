@@ -1,2 +1,2 @@
 # qiu-lab.github.io
-Qiu-Lab
+Group Website: Laboratory of Quantum Measurements at Zhejiang University.
