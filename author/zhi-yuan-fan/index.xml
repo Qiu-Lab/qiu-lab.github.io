@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhi-Yuan Fan | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/author/zhi-yuan-fan/</link>
+      <atom:link href="https://www.qiu-lab.org/author/zhi-yuan-fan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhi-Yuan Fan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhi-Yuan Fan</title>
+      <link>https://www.qiu-lab.org/author/zhi-yuan-fan/</link>
+    </image>
+    
+    <item>
+      <title>Microwave-Optics Entanglement Via Cavity Optomagnomechanics</title>
+      <link>https://www.qiu-lab.org/publication/fan_microwaveoptics_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/fan_microwaveoptics_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

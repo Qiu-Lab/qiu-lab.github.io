@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Malz | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/author/daniel-malz/</link>
+      <atom:link href="https://www.qiu-lab.org/author/daniel-malz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Malz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title>Daniel Malz</title>
+      <link>https://www.qiu-lab.org/author/daniel-malz/</link>
+    </image>
+    
+    <item>
+      <title>Floquet Dynamics in the Quantum Measurement of Mechanical Motion</title>
+      <link>https://www.qiu-lab.org/publication/qiu_floquet_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_floquet_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Tone Optomechanical Instability and Its Fundamental Implications for Backaction-Evading Measurements</title>
+      <link>https://www.qiu-lab.org/publication/shomroni_twotone_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/shomroni_twotone_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Backaction-Evading Measurement of a Mechanical Oscillator</title>
+      <link>https://www.qiu-lab.org/publication/shomroni_optical_2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/shomroni_optical_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
