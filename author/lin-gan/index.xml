@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lin Gan | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/author/lin-gan/</link>
+      <atom:link href="https://www.qiu-lab.org/author/lin-gan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lin Gan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title>Lin Gan</title>
+      <link>https://www.qiu-lab.org/author/lin-gan/</link>
+    </image>
+    
+    <item>
+      <title>Single-Photon Generation by Pulsed Laser in Optomechanical System via Photon Blockade Effect</title>
+      <link>https://www.qiu-lab.org/publication/qiu_single-photon_2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_single-photon_2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

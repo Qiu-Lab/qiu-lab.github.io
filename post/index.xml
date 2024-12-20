@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/post/</link>
+      <atom:link href="https://www.qiu-lab.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://www.qiu-lab.org/post/</link>
+    </image>
+    
+    <item>
+      <title>New group members on board!</title>
+      <link>https://www.qiu-lab.org/post/24-08-03-newmembers/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/post/24-08-03-newmembers/</guid>
+      <description>&lt;p&gt;We are happy to have Chaoying, Yuliang, and Zhukai to join the group.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;heisenberg&#34;&gt;Heisenberg&lt;/h2&gt;
+&lt;h3 id=&#34;we-have-to-remember-that-what-we-observe-is-not-nature-itself-but-nature-exposed-to-our-method-of-questioning&#34;&gt;We have to remember that what we observe is not nature itself, but nature exposed to our method of questioning.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Haocun Yu and Zhenghao Yin&#39;s Visit!</title>
+      <link>https://www.qiu-lab.org/post/24-05-27-haocun/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/post/24-05-27-haocun/</guid>
+      <description>&lt;p&gt;We are happy to have Dr. Haocun Yu and Zhenghao Yin, from Vienna University, to visit the group, who gave research seminars about their recent experiments on &amp;ldquo;Quantum + Gravity&amp;rdquo; and &amp;ldquo;Quantum + Machine Learning&amp;rdquo;.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;john-wheeler&#34;&gt;John Wheeler&lt;/h2&gt;
+&lt;h3 id=&#34;spacetime-tells-matter-how-to-move-matter-tells-spacetime-how-to-curve&#34;&gt;Spacetime tells matter how to move; matter tells spacetime how to curve.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Guanhao Huang&#39;s Visit!</title>
+      <link>https://www.qiu-lab.org/post/24-04-01-guanhaohuang/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/post/24-04-01-guanhaohuang/</guid>
+      <description>&lt;p&gt;We are happy to have the first academic visitor of the group, Dr. Guanhao Huang from EPFL, who gave a talk on his PhD thesis, regarding room temperature quantum optomechanics and free-electrons.
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;niels-bohr&#34;&gt;Niels Bohr&lt;/h2&gt;
+&lt;h3 id=&#34;if-you-arent-confused-by-quantum-mechanics-you-havent-really-understood-it&#34;&gt;If you aren&amp;rsquo;t confused by quantum mechanics, you haven&amp;rsquo;t really understood it.&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to QIU-LAB!</title>
+      <link>https://www.qiu-lab.org/post/23-01-01-helloworld/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/post/23-01-01-helloworld/</guid>
+      <description>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;
+Our Lab Website is Now Created!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Q&lt;/strong&gt;uantum &lt;strong&gt;I&lt;/strong&gt;nterference &lt;strong&gt;U&lt;/strong&gt;ncertainty
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;john-wheeler&#34;&gt;John Wheeler&lt;/h2&gt;
+&lt;h3 id=&#34;no-phenomenon-is-a-physical-phenomenon-until-it-is-an-observed-phenomenon&#34;&gt;No phenomenon is a physical phenomenon until it is an observed phenomenon.&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amir Youssefi | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/author/amir-youssefi/</link>
+      <atom:link href="https://www.qiu-lab.org/author/amir-youssefi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amir Youssefi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title>Amir Youssefi</title>
+      <link>https://www.qiu-lab.org/author/amir-youssefi/</link>
+    </image>
+    
+    <item>
+      <title>A Cryogenic Electro-Optic Interconnect for Superconducting Devices</title>
+      <link>https://www.qiu-lab.org/publication/youssefi_cryogenic_2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/youssefi_cryogenic_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Tone Optomechanical Instability and Its Fundamental Implications for Backaction-Evading Measurements</title>
+      <link>https://www.qiu-lab.org/publication/shomroni_twotone_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/shomroni_twotone_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

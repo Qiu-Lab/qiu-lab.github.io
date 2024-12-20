@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past &amp; Upcoming Events | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/event/</link>
+      <atom:link href="https://www.qiu-lab.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past &amp; Upcoming Events</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2024 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title>Past &amp; Upcoming Events</title>
+      <link>https://www.qiu-lab.org/event/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Electro-Optics (Invited Talk)</title>
+      <link>https://www.qiu-lab.org/event/2024_07_20_shanxi/</link>
+      <pubDate>Fri, 19 Jul 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2024_07_20_shanxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Electro-Optics</title>
+      <link>https://www.qiu-lab.org/event/2024_05_23_shanxi/</link>
+      <pubDate>Thu, 23 May 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2024_05_23_shanxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Electro-Optics</title>
+      <link>https://www.qiu-lab.org/event/2024_05_22_bit/</link>
+      <pubDate>Wed, 22 May 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2024_05_22_bit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Electro-Optics</title>
+      <link>https://www.qiu-lab.org/event/2024_05_20_baq/</link>
+      <pubDate>Mon, 20 May 2024 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2024_05_20_baq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Electro-Optics</title>
+      <link>https://www.qiu-lab.org/event/2023_12_12_zju/</link>
+      <pubDate>Sun, 10 Dec 2023 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2023_12_12_zju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Electro-Optics: Bridging Photonic and Microwave Quantum Technologies</title>
+      <link>https://www.qiu-lab.org/event/2023_09_15_beyondc/</link>
+      <pubDate>Fri, 15 Sep 2023 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2023_09_15_beyondc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Electro-Optics: Towards Quantum Networks of Superconducting Circuits</title>
+      <link>https://www.qiu-lab.org/event/2023_04_01_cambridge_phys/</link>
+      <pubDate>Sat, 01 Apr 2023 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2023_04_01_cambridge_phys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Measurements in Quantum Integrated Photonics</title>
+      <link>https://www.qiu-lab.org/event/2023_02_01_cambridge_ee/</link>
+      <pubDate>Tue, 21 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2023_02_01_cambridge_ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Microwave-Photonics: Towards Quantum Networks of Superconducting Circuits</title>
+      <link>https://www.qiu-lab.org/event/2023_02_12_shenzhen/</link>
+      <pubDate>Fri, 10 Feb 2023 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2023_02_12_shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entangling microwave and optical photons</title>
+      <link>https://www.qiu-lab.org/event/2022_09_12_copenhagen/</link>
+      <pubDate>Thu, 15 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2022_09_12_copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Quantum Network for Superconducting Circuits</title>
+      <link>https://www.qiu-lab.org/event/2022_09_15_superqulan/</link>
+      <pubDate>Thu, 01 Sep 2022 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2022_09_15_superqulan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Entanglement between microwave and optical photons</title>
+      <link>https://www.qiu-lab.org/event/2022_06_12_erlangen/</link>
+      <pubDate>Wed, 15 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2022_06_12_erlangen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical control in cavity electro-optics</title>
+      <link>https://www.qiu-lab.org/event/2022_03_12_aps/</link>
+      <pubDate>Tue, 08 Mar 2022 13:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/event/2022_03_12_aps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

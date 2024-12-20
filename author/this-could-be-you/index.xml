@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>This could be you | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/author/this-could-be-you/</link>
+      <atom:link href="https://www.qiu-lab.org/author/this-could-be-you/index.xml" rel="self" type="application/rss+xml" />
+    <description>This could be you</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://www.qiu-lab.org/author/this-could-be-you/avatar_hu682a99cb9617cec61a1ecd11287907f1_4832_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>This could be you</title>
+      <link>https://www.qiu-lab.org/author/this-could-be-you/</link>
+    </image>
+    
+  </channel>
+</rss>

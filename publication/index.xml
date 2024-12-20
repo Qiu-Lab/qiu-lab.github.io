@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  | QIU LAB @ Zhejiang University</title>
+    <link>https://www.qiu-lab.org/publication/</link>
+      <atom:link href="https://www.qiu-lab.org/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description> </description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.qiu-lab.org/media/icon_hu28db44e25d105dc4062622ddd6fb4974_277719_512x512_fill_lanczos_center_3.png</url>
+      <title> </title>
+      <link>https://www.qiu-lab.org/publication/</link>
+    </image>
+    
+    <item>
+      <title>Coherent Optical Control of a Superconducting Microwave Cavity via Electro-Optical Dynamical Back-Action</title>
+      <link>https://www.qiu-lab.org/publication/qiu_coherent_2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_coherent_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entangling Microwaves with Light</title>
+      <link>https://www.qiu-lab.org/publication/sahu_entangling_2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/sahu_entangling_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave-Optics Entanglement Via Cavity Optomagnomechanics</title>
+      <link>https://www.qiu-lab.org/publication/fan_microwaveoptics_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/fan_microwaveoptics_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissipative Quantum Feedback in Measurements Using a Parametrically Coupled Microcavity</title>
+      <link>https://www.qiu-lab.org/publication/qiu_dissipative_2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_dissipative_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum-Enabled Operation of a Microwave-Optical Interface</title>
+      <link>https://www.qiu-lab.org/publication/sahu_quantumenabled_2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/sahu_quantumenabled_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cryogenic Electro-Optic Interconnect for Superconducting Devices</title>
+      <link>https://www.qiu-lab.org/publication/youssefi_cryogenic_2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/youssefi_cryogenic_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Cooling of a Nanomechanical Oscillator to Its Zero-Point Energy</title>
+      <link>https://www.qiu-lab.org/publication/qiu_laser_2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_laser_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optomechanical Generation of a Mechanical Catlike State by Phonon Subtraction</title>
+      <link>https://www.qiu-lab.org/publication/shomroni_optomechanical_2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/shomroni_optomechanical_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floquet Dynamics in the Quantum Measurement of Mechanical Motion</title>
+      <link>https://www.qiu-lab.org/publication/qiu_floquet_2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_floquet_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-Tone Optomechanical Instability and Its Fundamental Implications for Backaction-Evading Measurements</title>
+      <link>https://www.qiu-lab.org/publication/shomroni_twotone_2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/shomroni_twotone_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Backaction-Evading Measurement of a Mechanical Oscillator</title>
+      <link>https://www.qiu-lab.org/publication/shomroni_optical_2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/shomroni_optical_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spontaneous emission of two quantum dots in a single-mode cavity</title>
+      <link>https://www.qiu-lab.org/publication/qiuliu_spontaneous_2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiuliu_spontaneous_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Photon Generation by Pulsed Laser in Optomechanical System via Photon Blockade Effect</title>
+      <link>https://www.qiu-lab.org/publication/qiu_single-photon_2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_single-photon_2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Plasmon in Coupled Nanosandwich Structure</title>
+      <link>https://www.qiu-lab.org/publication/qiu_magnetic_2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.qiu-lab.org/publication/qiu_magnetic_2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
